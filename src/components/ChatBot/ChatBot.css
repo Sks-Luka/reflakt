@@ -1,0 +1,7 @@
+.chatbot-container {
+  border: 2px solid #007bff;
+  padding: 20px;
+  border-radius: 12px;
+  max-width: 500px;
+  margin: auto;
+}
